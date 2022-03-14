@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import './App.css';
+
 import Heading from "./Heading";
 import Recepe from "./Recepe";
 
